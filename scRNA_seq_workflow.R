@@ -5,6 +5,8 @@
 # load libraries
 library(Seurat)
 library(tidyverse)
+library(here)
+setwd(here())
 
 # Load the dataset
 mtx_obj <- ReadMtx(mtx = "data/raw/GSE222510_raw_matrix.mtx.gz",
