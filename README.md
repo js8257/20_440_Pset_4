@@ -8,7 +8,8 @@ Our repo contains R code using Seurat package to analyze mouse brain transcripto
 
 ## Data
 
-Total of 56 mouse brains were used to produce single-cell transcriptomic profiling data(GSE222510) with 158,767 cells in total. You can access data through following link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE222510
+Total of 56 mouse brains were used to produce single-cell transcriptomic profiling data(GSE222510) with 158,767 cells in total. You can access data through following link: 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE222510
 
 ## Folder structure
 
